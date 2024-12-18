@@ -1,14 +1,14 @@
 # Enigmatik 🔐
 
 A secure and interactive terminal-based password generator built with Rust.
-Generate strong, customizable passwords with ease while enjoying a stylish interface.
+Generate strong, customizable passwords with ease while enjoying a fancy interface.
 
 ## Features
 
-- **Interactive Input**: Choose your desired password length, with a minimum of 8 characters.
+- **Interactive Input**: Choose your desired password length, with a minimum of 8 and maximum 100 characters.
 - **Customization**: Optionally include symbols and/or numbers in your password.
 - **Animated Generation**: Watch as your password is generated with a fun animation.
-- **Stylish Logo**: A visually appealing ASCII art logo greets you on startup.
+- **Fancy Logo**: A visually appealing ASCII art logo greets you on startup.
 
 ## Installation
 
