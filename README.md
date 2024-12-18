@@ -55,7 +55,7 @@ Generated Password: aB$7gH@9pZ2!
 
 ## Dependencies
 
-    •	`rand`: A Rust library for generating random values.
+• `rand`: A Rust library for generating random values.
 
 ## Contributing
 
@@ -64,11 +64,11 @@ If you have ideas for improvements or new features, feel free to open an issue o
 
 ### Steps to Contribute
 
-    1.	Fork the repository.
-    2.	Create a new branch (git checkout -b feature-branch).
-    3.	Commit your changes (git commit -m "Add a new feature").
-    4.	Push to the branch (git push origin feature-branch).
-    5.	Open a pull request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -m "Add a new feature").
+4. Push to the branch (git push origin feature-branch).
+5. Open a pull request.
 
 ## License
 
