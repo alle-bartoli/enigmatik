@@ -5,7 +5,7 @@ use utils::{print_logo, get_password_length, get_user_options, generate_password
 use std::io::{self, Write};
 
 fn main() {
-loop {
+    loop {
         println!("{}", print_logo());
         println!("Press 'q' or 'c' to quit.");
 
